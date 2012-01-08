@@ -18,7 +18,6 @@ Esto es un ejemplo, se puede ocupar cualquier estructura `contenedor > hijo`
   <li>Lista 1</li>
   <li>Lista 2</li>
   <li>Lista 3</li>
-  ...
 </ul>
 ```
 
@@ -61,6 +60,6 @@ $('selector').simpleRotation({
 
 ### Changelog:
 
-###### 0.1.0 / 2012-01-08
+__0.1.0 / 2012-01-08__
 * First release
 
