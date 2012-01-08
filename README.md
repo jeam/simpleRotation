@@ -12,7 +12,9 @@ Incluye jquery.simpleRotation.js en el header o footer (o en un archivo de plugi
 Si estas en versión de producción recomiendo ocupar jquery.simpleRotation.min.js.
 
 #### HTML
+
 Esto es un ejemplo, se puede ocupar cualquier estructura `contenedor > hijo`
+
 ```html
 <ul class="rotation">
   <li>Lista 1</li>
@@ -22,12 +24,14 @@ Esto es un ejemplo, se puede ocupar cualquier estructura `contenedor > hijo`
 ```
 
 #### CSS
+
 ```css
 .rotation { position: relative; }
 .rotation li { position: absolute; }
 ```
 
 #### JavaScript
+
 ```js
 $(function(){
   
@@ -60,6 +64,6 @@ $('selector').simpleRotation({
 
 ### Changelog:
 
-__0.1.0 / 2012-01-08__
-* First release
+* __0.1.0 / 2012-01-08__
+  * First release
 
