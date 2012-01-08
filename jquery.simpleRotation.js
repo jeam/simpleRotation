@@ -9,9 +9,9 @@
   $.fn.simpleRotation = function(options) {
     
     var settings,
-		    $this = $(this);
+        $this = $(this);
 		    
-		settings = $.extend({
+    settings = $.extend({
       'timeTransition'  : 10000,
       'speedTransition' : 900
     }, options);
